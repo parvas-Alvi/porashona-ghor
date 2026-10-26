@@ -1,0 +1,247 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: =?utf-8?Q?=E0=A6=AA=E0=A7=9C=E0=A6=BE=E0=A6=B6=E0=A7=8B=E0=A6=A8=E0=A6=BE?=
+ =?utf-8?Q?=20=E0=A6=98=E0=A6=B0?=
+Date: Mon, 26 Oct 2026 14:49:31 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TPy2QE9tbEgBgKLiqp8YD5bQMuDvh09zhOoyMWNle1----"
+
+
+------MultipartBoundary--TPy2QE9tbEgBgKLiqp8YD5bQMuDvh09zhOoyMWNle1----
+Content-Type: text/html
+Content-ID: <frame-C583BBB8CB8C1312598E2D42F7451375@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<!DOCTYPE html><html lang="bn"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-3944bb4a-1101-4cde-b555-13925d9f19ef@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-20ec27fb-0be0-45dd-a5ba-fb123f7f87c3@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    
+    
+    <!-- Injected code, this is not present in original code -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>পড়াশোনা ঘর</title>
+
+
+</head><c-toggler style="transform: translate(2px, 902.5px); display: none;"></c-toggler>
+
+<body>
+
+<header>
+  <h1>📚 পড়াশোনা ঘর</h1>
+  <p>শিখি প্রতিদিন, এগিয়ে যাই প্রতিনিয়ত!</p>
+</header>
+
+<main>
+
+  <section class="panel">
+    <h2>👋 স্বাগতম শিক্ষার্থী!</h2>
+    <p>তোমার শ্রেণি বেছে নিয়ে পড়ার বিষয় খুঁজে নাও।</p>
+
+    <label for="classSelect">তোমার শ্রেণি</label>
+    <select id="classSelect">
+      <option value="সব">সব শ্রেণি</option>
+      <option value="৬ষ্ঠ–১০ম">৬ষ্ঠ–১০ম শ্রেণি</option>
+      <option value="একাদশ–দ্বাদশ">একাদশ–দ্বাদশ শ্রেণি</option>
+      <option value="ডিপ্লোমা">ডিপ্লোমা পলিটেকনিক</option>
+    </select>
+
+    <label for="search">বিষয় বা পাঠ খোঁজো</label>
+    <input id="search" type="search" placeholder="যেমন: ইংরেজি, বিদ্যুৎ, গণিত">
+
+    <button>পাঠ খুঁজুন</button>
+  </section>
+
+  <section class="panel">
+    <h2>📖 শেখার বিষয়সমূহ</h2>
+    <div id="lessons" class="grid"><article class="card"><h3>📘 বাংলা ব্যাকরণ</h3><p>ব্যাকরণের প্রাথমিক ধারণা ও অনুশীলন।</p><p>শ্রেণি: ৬ষ্ঠ–১০ম</p></article><article class="card"><h3>🔤 ইংরেজি Sentence</h3><p>Sentence-এর গঠন ও বিভিন্ন প্রকার।</p><p>শ্রেণি: ৬ষ্ঠ–১০ম</p></article><article class="card"><h3>📐 উচ্চতর গণিত</h3><p>গাণিতিক ধারণা ও সমস্যা সমাধান।</p><p>শ্রেণি: একাদশ–দ্বাদশ</p></article><article class="card"><h3>⚡ পদার্থবিজ্ঞান</h3><p>বল, গতি, বিদ্যুৎ ও অন্যান্য বিষয়।</p><p>শ্রেণি: একাদশ–দ্বাদশ</p></article><article class="card"><h3>🔌 Basic Electricity</h3><p>কারেন্ট, ভোল্টেজ ও সার্কিটের বেসিক।</p><p>শ্রেণি: ডিপ্লোমা</p></article><article class="card"><h3>🧮 ইঞ্জিনিয়ারিং গণিত</h3><p>ডিপ্লোমা পর্যায়ের গণিত অনুশীলন।</p><p>শ্রেণি: ডিপ্লোমা</p></article></div>
+    
+  </section>
+
+  <section class="panel">
+    <h2>📝 ছোট্ট MCQ পরীক্ষা</h2>
+    <p id="question">1. HTML-এর প্রধান কাজ কী?</p>
+    <div id="quizOptions"><button class="secondary">ওয়েবপেজের কাঠামো তৈরি</button><button class="secondary">শুধু ছবি আঁকা</button><button class="secondary">ফোন চার্জ করা</button></div>
+    <p id="message" aria-live="polite"></p>
+    <button class="secondary">
+      পরের প্রশ্ন
+    </button>
+  </section>
+
+</main>
+
+<footer>
+  © 2026 পড়াশোনা ঘর | শেখা হোক সবার জন্য
+</footer>
+
+
+
+
+
+</body></html>
+------MultipartBoundary--TPy2QE9tbEgBgKLiqp8YD5bQMuDvh09zhOoyMWNle1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-20ec27fb-0be0-45dd-a5ba-fb123f7f87c3@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; font-family: Arial, sans-serif; background: rgb(243, 246, 252); color: rgb(30, 41, 59); }
+
+header { background: linear-gradient(135deg, rgb(23, 92, 211), rgb(113, 56, 212)); color: white; padding: 26px 18px; text-align: center; }
+
+header h1 { margin: 0px 0px 8px; font-size: 30px; }
+
+header p { margin: 0px; line-height: 1.7; }
+
+main { max-width: 850px; margin: auto; padding: 18px; }
+
+.panel { background: white; border-radius: 16px; padding: 18px; margin-bottom: 18px; box-shadow: rgba(30, 41, 59, 0.05) 0px 4px 16px; }
+
+h2 { font-size: 21px; margin-top: 0px; }
+
+input, select { width: 100%; padding: 13px; margin: 6px 0px 12px; border: 1px solid rgb(203, 213, 225); border-radius: 10px; font-size: 16px; background: white; }
+
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+
+.card { border: 1px solid rgb(226, 232, 240); border-radius: 12px; padding: 14px; background: rgb(251, 253, 255); }
+
+.card h3 { margin: 6px 0px; font-size: 17px; }
+
+.card p { font-size: 14px; line-height: 1.6; }
+
+button { border: 0px; background: rgb(23, 92, 211); color: white; padding: 12px 16px; border-radius: 9px; font-size: 15px; cursor: pointer; }
+
+button:active { opacity: 0.8; }
+
+.secondary { background: rgb(232, 239, 255); color: rgb(23, 72, 160); }
+
+#quizOptions { display: grid; gap: 9px; }
+
+#quizOptions button { text-align: left; }
+
+#message { line-height: 1.8; font-weight: bold; }
+
+footer { text-align: center; padding: 22px; color: rgb(100, 116, 139); font-size: 14px; }
+
+@media (max-width: 400px) {
+  .grid { grid-template-columns: 1fr; }
+}
+------MultipartBoundary--TPy2QE9tbEgBgKLiqp8YD5bQMuDvh09zhOoyMWNle1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-3944bb4a-1101-4cde-b555-13925d9f19ef@mhtml.blink
+
+@charset "utf-8";
+
+﻿html[console-only], html[console-only] body { width: 100%; height: 100%; margin: 0px; overflow: hidden; background: var(--primary-color, #313131) !important; }
+
+c-console { --console-background: #313131; --console-background-text: #eee; --console-surface: #313131; --console-surface-text: #eee; --console-control: #414141; --console-control-text: #d6d3d3; --console-active: #555; --console-active-text: #fff; --console-border: rgba(204, 204, 204, 0.35); --console-muted: #aaa; --console-placeholder: #929292; --console-scrollbar: #666; --console-danger: #ff9b9b; --console-danger-fill: #a00000; --console-warning-fill: #ffb95c; --console-error-surface: #422; --console-warning-surface: #633; --console-link: #99f; --console-accent: rgb(120, 105, 225); --console-function: rgb(145, 136, 168); --console-success: rgb(59, 161, 59); box-sizing: border-box; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; position: fixed; top: var(--console-viewport-top, 0); left: var(--console-viewport-left, 0); width: var(--console-viewport-width, 100vw); height: var(--console-viewport-height, 100dvh); min-height: 0px; overflow: hidden; z-index: 99998; background: var(--console-background); color: var(--console-background-text); font-family: var(--app-font-family, Verdana, Geneva, Tahoma, sans-serif); color-scheme: dark; }
+
+html[console-only] c-console { --console-background: var(--primary-color, #313131); --console-background-text: var(--primary-text-color, #eee); --console-surface: var(--secondary-color, var(--primary-color, #313131)); --console-surface-text: var( --secondary-text-color, var(--primary-text-color, #eee) ); --console-control: var( --popup-background-color, var(--secondary-color, #414141) ); --console-control-text: var( --popup-text-color, var(--secondary-text-color, #d6d3d3) ); --console-active: var(--active-color, #555); --console-active-text: var(--active-text-color, #fff); --console-border: var(--border-color, rgba(204, 204, 204, 0.35)); --console-muted: var(--secondary-text-color, #aaa); --console-placeholder: var(--secondary-text-color, #929292); --console-scrollbar: var(--scrollbar-color, #666); --console-danger: var(--error-text-color, #ff9b9b); --console-danger-fill: var(--danger-color, #a00000); --console-warning-fill: var(--error-text-color, #ffb95c); --console-link: var(--link-text-color, #99f); --console-accent: var(--active-color, rgb(120, 105, 225)); --console-function: var(--secondary-text-color, rgb(145, 136, 168)); --console-success: var(--success-text-color, rgb(59, 161, 59)); }
+
+html[theme-type="light"] c-console { color-scheme: light; }
+
+c-console[standalone] { position: absolute; inset: 0px; width: auto; height: auto; }
+
+.__c-action { min-height: 32px; padding: 5px 8px; border: 0px; border-radius: 3px; background: rgba(0, 0, 0, 0); color: var(--console-surface-text); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 0.76rem; touch-action: manipulation; }
+
+.__c-action:active { background: var(--console-active); color: var(--console-active-text); }
+
+.__c-action-danger { color: var(--console-danger); }
+
+.__c-context { box-sizing: border-box; max-width: 112px; min-height: 32px; padding: 4px 20px 4px 6px; border: 0px; border-radius: 3px; outline: none; background: var(--console-control); color: var(--console-control-text); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 0.7rem; }
+
+.__c-context:focus-visible { outline: 1px solid var(--console-active); outline-offset: -1px; }
+
+.__c-context:disabled { opacity: 0.55; }
+
+c-output { display: block; -webkit-box-flex: 1; flex: 1 1 100%; min-height: 0px; overflow: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: var(--console-scrollbar) rgba(0,0,0,0); }
+
+c-output > .variable-virtual-spacer, c-output > .variable-virtual-items { display: block; width: 100%; }
+
+c-input { box-sizing: border-box; display: flex; -webkit-box-align: end; align-items: flex-end; gap: 6px; width: 100%; min-height: 96px; padding: 7px 7px max(8px,env(safe-area-inset-bottom)); background: var(--console-surface); color: var(--console-surface-text); }
+
+c-input::before { content: ">>"; align-self: flex-start; padding-top: 9px; color: var(--console-accent); font: italic 13px / 1 "Courier New", Courier, monospace; }
+
+#__c-input { box-sizing: border-box; display: block; -webkit-box-flex: 1; flex: 1 1 auto; width: 100%; min-width: 0px; min-height: 82px; max-height: 120px; margin: 0px; padding: 7px 3px; border: 0px; outline: none; resize: none; overflow-y: auto; background: rgba(0, 0, 0, 0); color: var(--console-surface-text); font: 13px / 1.45 "Courier New", Courier, monospace; caret-color: currentcolor !important; }
+
+c-input-actions { display: flex; -webkit-box-flex: 0; flex: 0 0 auto; -webkit-box-align: center; align-items: center; gap: 2px; padding-bottom: 2px; }
+
+#__c-input::-webkit-input-placeholder { color: var(--console-placeholder); opacity: 0.75; }
+
+#__c-input::placeholder { color: var(--console-placeholder); opacity: 0.75; }
+
+#__c-input:disabled { opacity: 0.55; }
+
+c-message { box-sizing: border-box; display: flex; position: relative; flex-wrap: wrap; min-height: 45px; padding: 5px 7px 4px; border-bottom: 1px solid var(--console-border); background: var(--console-surface); color: var(--console-surface-text); font-size: 0.9rem; }
+
+c-message[log-level="error"] { background: color-mix(in srgb, var(--console-danger-fill) 16%, var(--console-surface)); }
+
+c-message[log-level="warn"] { background: color-mix(in srgb, var(--console-warning-fill) 20%, var(--console-surface)); }
+
+c-text, c-code { box-sizing: border-box; display: block; width: 100%; max-width: 100%; padding: 2px 4px; overflow-wrap: anywhere; white-space: pre-wrap; font: 0.9rem / 1.45 Verdana, Geneva, Tahoma, sans-serif; }
+
+c-code { position: relative; padding-right: 42px; overflow-x: auto; color: var(--console-surface-text); font-family: "Courier New", Courier, monospace; white-space: pre-wrap; cursor: pointer; }
+
+c-code::before { content: ">>"; padding-right: 5px; font-style: italic; }
+
+c-code::after { content: "use"; position: absolute; top: 1px; right: 1px; padding: 1px 6px; border-radius: 3px; background: var(--console-active); color: var(--console-active-text); font: .62rem/1.4 var(--app-font-family, sans-serif); }
+
+c-stack { box-sizing: border-box; display: flex; -webkit-box-flex: 1; flex: 1 0 100%; -webkit-box-pack: justify; justify-content: space-between; gap: 8px; min-width: 0px; margin-top: 3px; padding: 3px 4px 0px; color: var(--console-muted); opacity: 0.8; font-size: 0.7rem; }
+
+c-date, c-trace { min-width: 0px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+c-trace { direction: rtl; text-align: right; }
+
+c-object { color: var(--console-link); text-decoration: underline; }
+
+c-line { display: block; }
+
+c-key { margin-right: 5px; color: var(--console-accent); font-size: 0.9rem; }
+
+c-text.__c-boolean, c-text.__c-number, c-text.__c-symbol { color: var(--console-accent); }
+
+c-text.__c-function { color: var(--console-function); font-family: "Courier New", Courier, monospace; }
+
+c-text.__c-object, c-text.__c-undefined { color: var(--console-success); }
+
+c-text.__c-string { color: var(--console-success); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"] { cursor: pointer; user-select: none; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 3px; }
+
+c-type[type="body-toggler"]::after { content: " {…}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; color: var(--console-surface-text); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid var(--console-border); }
+
+c-table c-cell { display: table-cell; padding: 5px; }
+
+c-toggler { position: fixed; top: 0px; left: 0px; width: 30px; height: 30px; border-radius: 50%; z-index: 99999; opacity: 0.5; background-color: rgb(255, 255, 255); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px auto; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; touch-action: none; }
+
+c-toggler:active { opacity: 0.8; }
+
+[hidden] { display: none !important; }
+
+@supports not (height: 100dvh) {
+  c-console { height: var(--console-viewport-height, 100vh); }
+}
+------MultipartBoundary--TPy2QE9tbEgBgKLiqp8YD5bQMuDvh09zhOoyMWNle1------
